@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Khalid Ibizzi , I’m a data science student !
-- 🌱 I’m currently learning data mining and Developing mobile apps
+- 👋 Hi, I’m Khalid Ibizzi , I’m a software engineering student !
+- 🌱 I’m currently learning ML and Developing mobile apps
 - 📫 How to reach me : ibizzikhalid19@gmail.com
 
 
